@@ -1,2 +1,5 @@
 android/build/
 android/.gradle/
+
+npm-debug.log
+web/.idea
