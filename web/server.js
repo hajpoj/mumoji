@@ -12,9 +12,9 @@ app.use(express.logger('dev'));
 app.use(app.router);
 
 var data = {
-    "b9407f30-f5f8-466e-aff9-25556b57fe6d1889451784": "http://www.youtube.com/watch?v=9bZkp7q19f0&feature=share&list=PLirAqAtl_h2r5g8xGajEwdXd3x1sZh8hC",
-    "b9407f30-f5f8-466e-aff9-25556b57fe6d5695921068": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
-    "b9407f30-f5f8-466e-aff9-25556b57fe6d2967941577": "https://www.youtube.com/watch?v=GwCpnAndNQI&list=TL6qUrVp-md8-hPDdDWS9zrZjsaJm9QEoE"
+    "b9407f30-f5f8-466e-aff9-25556b57fe6d1889451784": "http://i.imgur.com/PibH1aY.jpg",
+    "b9407f30-f5f8-466e-aff9-25556b57fe6d5695921068": "http://i.imgur.com/77yDzoh.jpg",
+    "b9407f30-f5f8-466e-aff9-25556b57fe6d2967941577": "http://i.imgur.com/VzpGQne.jpg"
 }
 
 //app.get('/', function(req, res) {
