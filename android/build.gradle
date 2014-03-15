@@ -23,7 +23,7 @@ android {
 }
 
 dependencies {
-  compile files('lib/estimote-sdk-preview.jar')
+  compile files('lib/estimote-sdk-preview.jar', 'lib/android-async-http-1.4.4.jar')
 }
 
 task wrapper(type: Wrapper) {
